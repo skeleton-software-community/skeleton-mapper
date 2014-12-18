@@ -3,7 +3,7 @@
 
 	<groupId>org.sklsft</groupId>
 	<artifactId>mapper-root</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Skeleton Mapper - Root</name>
 	<description>Module racine du projet Mapper</description>
 	<url>http://skeleton-software-community.github.io/skeleton-mapper</url>

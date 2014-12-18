@@ -1,11 +1,11 @@
-package org.skeleton.mapper.beans;
+package org.sklsft.mapper.beans;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.skeleton.mapper.Dummy;
-import org.skeleton.mapper.beans.AccessibleField;
-import org.skeleton.mapper.beans.MappableBean;
-import org.skeleton.mapper.beans.MappableBeanFactory;
+import org.sklsft.mapper.Dummy;
+import org.sklsft.mapper.beans.AccessibleField;
+import org.sklsft.mapper.beans.MappableBean;
+import org.sklsft.mapper.beans.MappableBeanFactory;
 
 public class MappableBeanFactoryTest {
 	

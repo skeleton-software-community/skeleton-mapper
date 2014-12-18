@@ -1,9 +1,9 @@
-package org.skeleton.mapper;
+package org.sklsft.mapper;
 
 import java.util.Date;
 import java.util.List;
 
-public class Dummy {
+public class Fool {
 	
 	/*
 	 * properties

@@ -1,4 +1,4 @@
-package org.skeleton.mapper.beans;
+package org.sklsft.mapper.beans;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;

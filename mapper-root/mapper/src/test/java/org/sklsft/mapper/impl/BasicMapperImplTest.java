@@ -1,4 +1,4 @@
-package org.skeleton.mapper.impl;
+package org.sklsft.mapper.impl;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -7,8 +7,9 @@ import org.junit.Assert;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.skeleton.mapper.Dummy;
-import org.skeleton.mapper.Fool;
+import org.sklsft.mapper.Dummy;
+import org.sklsft.mapper.Fool;
+import org.sklsft.mapper.impl.BasicMapperImpl;
 
 public class BasicMapperImplTest {
 	

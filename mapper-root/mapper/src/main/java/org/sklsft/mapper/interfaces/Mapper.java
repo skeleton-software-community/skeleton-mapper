@@ -1,4 +1,4 @@
-package org.skeleton.mapper.interfaces;
+package org.sklsft.mapper.interfaces;
 
 public interface Mapper<T, U> {
 	

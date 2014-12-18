@@ -1,11 +1,11 @@
-package org.skeleton.mapper.beans;
+package org.sklsft.mapper.beans;
 
 import java.lang.reflect.TypeVariable;
 import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.Test;
-import org.skeleton.mapper.Dummy;
+import org.sklsft.mapper.Dummy;
 
 public class ReflectTest {
 	

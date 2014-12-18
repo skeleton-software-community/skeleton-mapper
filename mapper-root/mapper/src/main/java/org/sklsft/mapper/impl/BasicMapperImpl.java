@@ -1,9 +1,9 @@
-package org.skeleton.mapper.impl;
+package org.sklsft.mapper.impl;
 
-import org.skeleton.mapper.beans.AccessibleField;
-import org.skeleton.mapper.beans.MappableBean;
-import org.skeleton.mapper.beans.MappableBeanFactory;
-import org.skeleton.mapper.interfaces.Mapper;
+import org.sklsft.mapper.beans.AccessibleField;
+import org.sklsft.mapper.beans.MappableBean;
+import org.sklsft.mapper.beans.MappableBeanFactory;
+import org.sklsft.mapper.interfaces.Mapper;
 
 public class BasicMapperImpl<T, U> implements Mapper<T, U> {
 	

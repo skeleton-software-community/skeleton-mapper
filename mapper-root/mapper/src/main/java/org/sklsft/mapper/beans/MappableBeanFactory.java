@@ -1,4 +1,4 @@
-package org.skeleton.mapper.beans;
+package org.sklsft.mapper.beans;
 
 import java.beans.IntrospectionException;
 import java.beans.PropertyDescriptor;

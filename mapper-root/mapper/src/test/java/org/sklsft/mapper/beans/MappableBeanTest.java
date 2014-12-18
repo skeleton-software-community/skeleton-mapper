@@ -1,11 +1,13 @@
-package org.skeleton.mapper.beans;
+package org.sklsft.mapper.beans;
 
 import java.util.Date;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.skeleton.mapper.Dummy;
+import org.sklsft.mapper.Dummy;
+import org.sklsft.mapper.beans.MappableBean;
+import org.sklsft.mapper.beans.MappableBeanFactory;
 
 public class MappableBeanTest {
 	
